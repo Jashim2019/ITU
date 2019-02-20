@@ -9,3 +9,5 @@ $ cd ITU
 $ python2 install.py
 ```
 # Screenshot
+<img src="ITU1.jpg"/>
+<img src="ITU2.jpg"/>
