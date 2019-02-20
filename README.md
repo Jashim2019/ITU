@@ -1,5 +1,5 @@
 # ITrackU
-ITU (ITrack_yoU) / Sejenis IPGeoLocation, yang membedakan tools ini dengan IPHeoLocation adalah.. Tools ini menggunakan 4 web API sekaligus untuk mengetes keakuratan nya.. 
+ITU (ITrack_yoU) / Sejenis IPGeoLocation, yang membedakan tools ini adalah.. Tools ini menggunakan 4 web API sekaligus untuk mengetes keakuratan nya.. 
 # Install
 ```bash
 $ pkg install git
